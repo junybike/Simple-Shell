@@ -1,2 +1,2 @@
 # Simple_Shell
-Simple shell implemented with Linux programming 
+Raw copy of Simple shell project 
