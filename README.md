@@ -8,9 +8,7 @@ This is a raw copy of the Simple Shell project
 
 ## About:
 - This shell can take simple commands such as,
-  - ls
-  - cd
-  - pwd
+  - ls, cd, pwd, mkdir, and more
 - Multiple arguments to the commands are supported. For example,
   - ls -la
   - cd /home/Simple-shell
